@@ -1,4 +1,9 @@
-### Hi there 👋
+[![JeromeCHA's github stats](https://github-readme-stats.vercel.app/api?username=JeromeCHA&count_private=true&show_icons=true)](https://github.com/JeromeCHA/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeromeCHA&hide=CSS,javascript,html&show_icons=true)](https://github.com/JeromeCHA/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JeromeCHA)](https://github.com/JeromeCHA "trophy")
+
+[![GitHub](https://img.shields.io/github/followers/JeromeCHA?style=social)](https://github.com/JeromeCHA "GitHub")
+[![Twitter](https://img.shields.io/twitter/follow/JeromeCHA?style=social)](https://twitter.com/JeromeCHA "Twitter")
 
 <!--
 **JeromeCHA/JeromeCHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
