@@ -3,7 +3,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=JeromeCHA)](https://github.com/JeromeCHA "trophy")
 
 [![GitHub](https://img.shields.io/github/followers/JeromeCHA?style=social)](https://github.com/JeromeCHA "GitHub")
-[![Twitter](https://img.shields.io/twitter/follow/JeromeCHA?style=social)](https://twitter.com/yujiro45 "Twitter")
+[![Twitter](https://img.shields.io/twitter/follow/yujiro45?style=social)](https://twitter.com/yujiro45 "Twitter")
 
 <!--
 **JeromeCHA/JeromeCHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
