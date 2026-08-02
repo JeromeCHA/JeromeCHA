@@ -1,6 +1,5 @@
-[![JeromeCHA's github stats](https://YOUR-INSTANCE.vercel.app/api?username=JeromeCHA&count_private=true&show_icons=true)](https://github.com/JeromeCHA)
-[![Top Langs](https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=JeromeCHA&hide=css,javascript,html&layout=compact)](https://github.com/JeromeCHA)
-[![trophy](https://YOUR-TROPHY-INSTANCE.vercel.app/?username=JeromeCHA)](https://github.com/JeromeCHA "trophy")
+![Metrics](./metrics.svg)
+![Languages](./metrics.languages.svg)
 
 [![GitHub](https://img.shields.io/github/followers/JeromeCHA?style=social)](https://github.com/JeromeCHA "GitHub")
 [![Twitter](https://img.shields.io/twitter/follow/yujiro45?style=social)](https://twitter.com/yujiro45 "Twitter")
